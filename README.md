@@ -1,4 +1,11 @@
-[![pub](https://img.shields.io/pub/v/flexible_location_picker?label=pub&logo=dart)](https://pub.dev/packages/flexible_location_picker/install) [![stars](https://img.shields.io/github/stars/omarfarouk228/flexible_location_picker?logo=github)](https://github.com/omarfarouk228/flexible_location_picker) [![issues](https://img.shields.io/github/issues/omarfarouk228/flexible_location_picker?logo=github)](https://github.com/omarfarouk228/flexible_location_picker/issues) [![commit](https://img.shields.io/github/last-commit/omarfarouk228/flexible_location_picker?logo=github)](https://github.com/omarfarouk228/flexible_location_picker/commits)
+[![pub](https://img.shields.io/pub/v/flexible_location_picker?label=pub&logo=dart)](https://pub.dev/packages/flexible_location_picker/install) [![stars](https://img.shields.io/github/stars/omarfarouk228/flexible_location_picker?logo=github)](https://github.com/omarfarouk228/flexible_location_picker) [![issues](https://img.shields.io/github/issues/omarfarouk228/flexible_location_picker?logo=github)](https://github.com/omarfarouk228/flexible_location_picker/issues) [![commit](https://img.shields.io/github/last-commit/omarfarouk228/flexible_location_picker?logo=github)](https://github.com/omarfarouk228/flexible_location_picker/commits) <a href="https://codecov.io/gh/omarfarouk228/flexible_location_picker"><img src="https://codecov.io/gh/omarfarouk228/flexible_location_picker/branch/master/graph/badge.svg" alt="code coverage"></a>
+  <a href="https://github.com/omarfarouk228#sponsor-me"><img src="https://img.shields.io/github/sponsors/omarfarouk228" alt="Sponsoring"></a>
+  <a href="https://pub.dev/packages/flexible_location_picker/score"><img src="https://img.shields.io/pub/likes/flexible_location_picker" alt="likes"></a>
+  <a href="https://pub.dev/packages/flexible_location_picker/score"><img src="https://img.shields.io/pub/points/flexible_location_picker" alt="pub points"></a>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3807b97-c25e-4d2f-a64a-418dc197ebdb" height="100" alt="Flutter Favorite" />
+</p>
 
 # Flexible Location Picker
 
