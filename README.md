@@ -21,9 +21,9 @@ A powerful, highly customizable, and performant Flutter package for location and
 
 ## 📸 Demo
 
-_(Replace with an actual GIF or screenshot of your picker in action)_
-
-<img src="URL_TO_YOUR_MAIN_DEMO_GIF_OR_IMAGE" width="300">
+<img src="https://github.com/user-attachments/assets/aeb1c01f-108e-458c-9661-a2d6d6dd34ac"  width="300">
+<br><br>
+<img src="https://github.com/user-attachments/assets/7ead47f0-17dc-40f8-a8e4-640592a2cc79"  width="300">
 
 ## 🚀 Installation
 
