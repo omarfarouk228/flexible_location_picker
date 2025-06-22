@@ -19,11 +19,15 @@ A powerful, highly customizable, and performant Flutter package for location and
 - **Clean Architecture:** Built with a modular structure, separating concerns with dedicated services (`LocationService`, `AddressService`) and a central `ChangeNotifier`-based controller for state management.
 - **User-Friendly Error Handling:** Clear messages for location service issues, permission denials, and search errors.
 
-## 📸 Demo
+## 📸 Demo : [See full demo](https://ofaroukk.com/demos/location_picker.gif)
 
 <img src="https://github.com/user-attachments/assets/aeb1c01f-108e-458c-9661-a2d6d6dd34ac"  width="300">
 &nbsp;&nbsp;&nbsp;
-<img src="https://ofaroukk.com/demos/location_picker.gif"  width="300">
+<img width="300" src="https://github.com/user-attachments/assets/4be32de1-4a61-4a26-aacc-dc84680c833a" />
+&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/628c4d73-7305-4a55-90c9-679d07543886" />
+&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/669259aa-2102-4eda-a2ef-1814d5a08245" />
 
 ## 🚀 Installation
 
