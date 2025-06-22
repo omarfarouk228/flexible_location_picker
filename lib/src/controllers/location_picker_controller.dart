@@ -191,7 +191,7 @@ class LocationPickerController extends ChangeNotifier {
     _isMapReady = true; // Indicate that the native map is ready.
 
     if (config.mapStyle != null) {
-      controller.setMapStyle(config.mapStyle!);
+      //  controller.setMapStyle(config.mapStyle!);
     }
 
     // Trigger the initial position loading only once the map is ready

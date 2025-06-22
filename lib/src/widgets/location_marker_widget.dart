@@ -61,7 +61,7 @@ class LocationMarkerWidget extends StatelessWidget {
                     borderRadius: BorderRadius.circular(12), // Rounded corners.
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.black.withOpacity(0.2),
+                        color: Colors.black.withAlpha(50),
                         blurRadius: 4,
                         offset: const Offset(0, 2),
                       ),
@@ -89,7 +89,7 @@ class LocationMarkerWidget extends StatelessWidget {
                 Icons.location_pin, // The pin icon for the marker.
                 size: 40, // Size of the icon.
                 // Adjust color opacity based on whether the map is moving, creating a subtle animation.
-                color: isMoving ? markerColor.withOpacity(0.8) : markerColor,
+                color: isMoving ? markerColor.withAlpha(200) : markerColor,
               ),
             ],
           ),

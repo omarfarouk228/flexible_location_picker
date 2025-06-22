@@ -191,6 +191,7 @@ class _LocationPickerWidgetState extends State<LocationPickerWidget>
             target: initialMapTarget,
             zoom: widget.config.initialZoom,
           ),
+          style: widget.config.mapStyle, // Custom map style from config
           onMapCreated: _controller
               .setMapController, // Assigns the GoogleMapController to our picker controller
           onCameraMove:

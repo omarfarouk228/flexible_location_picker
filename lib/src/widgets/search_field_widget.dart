@@ -92,7 +92,7 @@ class _SearchFieldWidgetState extends State<SearchFieldWidget> {
         borderRadius: BorderRadius.circular(12), // Rounded corners
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withOpacity(0.1), // Shadow for elevation
+            color: Colors.black.withAlpha(25), // Shadow for elevation
             blurRadius: 8,
             offset: const Offset(0, 2),
           ),
