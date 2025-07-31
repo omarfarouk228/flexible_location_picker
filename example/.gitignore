@@ -45,12 +45,3 @@ app.*.map.json
 /android/app/release
 
 
-# Remove constants.dart from version control
-# This file is often used to store API keys or other sensitive information
-# and should not be committed to the repository.
-lib/constants.dart
-
-# Remove AndroidManifest.xml from version control
-# This file may contain sensitive information such as permissions or configurations
-# that should not be shared publicly.
-android/app/src/main/AndroidManifest.xml
