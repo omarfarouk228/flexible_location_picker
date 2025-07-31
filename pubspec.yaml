@@ -1,11 +1,11 @@
 name: flexible_location_picker
 description: "A Flutter package to pick locations flexibly, supporting both web and mobile platforms."
-version: 0.0.1+6
+version: 0.1.0+7
 repository: https://github.com/omarfarouk228/flexible_location_picker
 homepage: https://github.com/omarfarouk228/flexible_location_picker
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.7.2
   flutter: ">=1.17.0"
 
 dependencies:

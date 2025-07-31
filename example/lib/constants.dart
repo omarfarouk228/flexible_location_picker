@@ -16,4 +16,4 @@
 /// 4.  **Google Secrets Manager (or similar service):** For more advanced
 ///     scenarios, use a dedicated secrets management service.
 ///
-const String apiKey = '';
+const String apiKey = 'AIzaSyDtD93jNRgToW9ly9c-MZqoyJLh4ULn7mc';
